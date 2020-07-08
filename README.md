@@ -1,4 +1,4 @@
-# Pong Multiplayer Game
+# Pong Multiplayer Game (made with Unity)
 
 A pong game with basic multiplayer implementantion.
 

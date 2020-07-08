@@ -28,10 +28,4 @@ public class GameManager : MonoBehaviour
         paddleRight.Init("right");
         paddleLeft.Init("left");
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }
